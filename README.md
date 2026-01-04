@@ -9,7 +9,7 @@ O objetivo principal é analisar o desempenho de diferentes algoritmos de ordena
 
 ## Projeto
 
-O código carrega dados de um arquivo CSV contendo informações da NASA sobre asteroides e outros objetos espaciais.
+O código carrega dados de um arquivo CSV, retirados do kaggle, contendo informações da NASA sobre os objetos mais próximos da terra.
 A aplicação realiza a ordenação desses objetos com base no seu ID, comparando o tempo de execução de quatro algoritmos clássicos em diferentes cenários de estresse.
 
 Algoritmos Implementados
@@ -46,6 +46,6 @@ Apos a aplicação dos algorítimos, os resultados foram transcritos para tabela
 
 • Ter o java instalado;
 
-• Fazer o Dowload do Dataset;
+• Fazer o Dowload do Dataset (https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024);
 
-• Alterar o caminho para o Dataset no arquivo main.
+• Alterar o caminho para o Dataset no main do arquivo "MetodosOrdenação".
