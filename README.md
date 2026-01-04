@@ -1,6 +1,6 @@
 # Estrutura de dados Métodos de Ordenação
 
-Feito por Matheus Rodrigues Silva e Larissa R. Gabriel
+Feito por Matheus Rodrigues Silva e Larissa Rademaker Gabriel
 
 Este projeto foi desenvolvido como trabalho final da disciplina de Estrutura de Dados durante o 3º semestre do curso de Engenharia de Computação.
 O objetivo principal é analisar o desempenho de diferentes algoritmos de ordenação aplicados a um conjunto de dados real 
